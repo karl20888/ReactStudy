@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [React](https://facebook.github.io/react/) [![Build Status](https://travis-ci.org/facebook/react.svg?branch=0.14-stable)](https://travis-ci.org/facebook/react) [![npm version](https://badge.fury.io/js/react.svg)](http://badge.fury.io/js/react)
 
 React is a JavaScript library for building user interfaces.
@@ -106,3 +107,6 @@ There's only so much we can cram in here. To read more about the community and g
 
 ## Troubleshooting
 See the [Troubleshooting Guide](https://github.com/facebook/react/wiki/Troubleshooting)
+=======
+# ReactStudy
+>>>>>>> ff9bf7d3406fe8dd61d3bd09887c328637c9ac20
